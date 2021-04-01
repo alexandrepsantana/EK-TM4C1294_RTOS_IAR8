@@ -1,0 +1,16 @@
+# ninja log v5
+1	27	6390212808794371	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/startup_TM4C1294.o	bc222291c6adbd88
+8	123	6390212809674421	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/driverleds.o	738f078888c4da98
+33	151	6390212809774427	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/RTX_Config.o	60738447b29904fe
+133	262	6390212811064501	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/rtx_lib.o	a6c421102a9a57d2
+163	309	6390212811544528	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/system_TM4C1294_TW.o	6cc1b2c93643c04d
+272	354	6390212812004555	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/tarefas.o	d71e118bb2185405
+363	1171	6390212820115019	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.out	80a920dd46096f1f
+1180	1600	6390212824515270	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.bin	332fd31178ec63c0
+2	130	6390215520369464	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/rtx_lib.o	a6c421102a9a57d2
+2	167	6390215842847909	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/tarefas.o	d71e118bb2185405
+173	277	6390215843877968	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.out	80a920dd46096f1f
+289	300	6390215844257990	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.bin	332fd31178ec63c0
+3	189	6390230478275008	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/tarefas.o	d71e118bb2185405
+197	305	6390230479345069	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.out	80a920dd46096f1f
+315	327	6390230479745092	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.bin	332fd31178ec63c0

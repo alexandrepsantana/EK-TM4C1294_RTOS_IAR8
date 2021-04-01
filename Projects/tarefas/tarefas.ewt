@@ -9,9 +9,9 @@
         <debug>1</debug>
         <settings>
             <name>C-STAT</name>
-            <archiveVersion>513</archiveVersion>
+            <archiveVersion>514</archiveVersion>
             <data>
-                <version>513</version>
+                <version>514</version>
                 <cstatargs>
                     <useExtraArgs>0</useExtraArgs>
                     <extraArgs></extraArgs>
@@ -22,9 +22,10 @@
                     <enableFalsePositives>0</enableFalsePositives>
                     <messagesLimitEnabled>1</messagesLimitEnabled>
                     <messagesLimit>100</messagesLimit>
+                    <outputDir>Debug\C-STAT</outputDir>
                 </cstatargs>
                 <cstat_settings>
-                    <cstat_version>2.1.2</cstat_version>
+                    <cstat_version>2.2.0</cstat_version>
                     <checks_tree>
                         <package enabled="true" name="STDCHECKS">
                             <group enabled="true" name="ARR">
@@ -1425,9 +1426,6 @@
     </file>
     <file>
         <name>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\driverlib\ewarm\Exe\driverlib.a</name>
-    </file>
-    <file>
-        <name>$PROJ_DIR$\..\..\CMSIS-5.6.0\CMSIS\RTOS2\RTX\Library\IAR\IDE\CM4F\Exe\RTX_CM.a</name>
     </file>
     <file>
         <name>$PROJ_DIR$\src\RTX_Config.c</name>
